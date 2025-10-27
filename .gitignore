@@ -1,0 +1,11 @@
+# APK files (too large for git, use releases instead)
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

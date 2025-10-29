@@ -4,7 +4,10 @@ Official releases for the Grace Dishes Customer mobile application.
 
 ## Download Latest Version
 
-**Version 1.0.0** - [Download APK](https://github.com/Justus-Kimutai/grace-dishes-releases/releases/download/v1.0.0/grace-dishes-customer.apk)
+**Version 1.0.2** - [Download APK](https://github.com/Justus-Kimutai/grace-dishes-releases/releases/download/v1.0.2/grace-customer-app-v1.0.2-production.apk)
+
+### Previous Versions
+- **Version 1.0.0** - [Download APK](https://github.com/Justus-Kimutai/grace-dishes-releases/releases/download/v1.0.0/grace-dishes-customer.apk)
 
 ### Installation Instructions
 
@@ -22,12 +25,14 @@ Official releases for the Grace Dishes Customer mobile application.
 
 ### Features
 
-- Browse restaurants and menus
+- Browse restaurants and menus with location-based filtering
 - Place orders with real-time tracking
 - Multiple payment options (M-Pesa, Cash)
-- Save favorite restaurants
-- Order history and reordering
+- Save favorite restaurants and items
+- Order history and easy reordering
 - Push notifications for order updates
+- Google Maps integration for precise location selection
+- Transparent pricing with clear service fee display
 
 ### Support
 
